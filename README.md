@@ -1,3 +1,7 @@
+# NOTICE: nannou_laser has been moved [here](https://github.com/nannou-org/nannou/tree/master/nannou_laser).
+
+---
+
 # nannou_laser [![Build Status](https://travis-ci.org/nannou-org/nannou_laser.svg?branch=master)](https://travis-ci.org/nannou-org/nannou_laser) [![Crates.io](https://img.shields.io/crates/v/nannou_laser.svg)](https://crates.io/crates/nannou_laser) [![Crates.io](https://img.shields.io/crates/l/nannou_laser.svg)](https://github.com/nannou-org/nannou_laser/blob/master/LICENSE-MIT) [![docs.rs](https://docs.rs/nannou_laser/badge.svg)](https://docs.rs/nannou_laser/)
 
 A cross-platform laser DAC detection and streaming API.
